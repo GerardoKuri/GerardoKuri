@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GerardoKuri, a salvadorean with a master's in AI that wants to keep learning ALWAYS.
+- 👋 Hi, I’m @GerardoKuri, a Salvadoran with a master's in AI that wants to keep learning ALWAYS.
 - 👀 I’m interested in building a community of data scientists for me to keep learning about the latest data science techniques 
 in a world where this skill becomes more and more indispensable 
 - 🌱 I’m currently learning more about database structures due that, in my master's in AI I think this area wasn't focused and analyzed enough
